@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mosescodes,A  Junior software developer (Frontend )
+- 👋 Hi, I’m Mosescodes,A  Junior software developer (Frontend / Backend )
 - 👀 I’m interested in :  Java script, REACT, Redux, Hooks, GraphQL, Stripe, Firebase,Mongodb,Rest API with Node js & Express 
 - 🌱 I’m currently learning ...REACT, Redux, Hooks, GraphQL, Stripe, Firebase,Mongodb,Rest API with Node js  with Express 
 - 💞️ I’m looking to collaborate with any team building project on react, majorly fronend, 
